@@ -1,0 +1,12 @@
+.product {
+  width: 250;
+  margin: 10;
+  padding: 5;
+  text-align: center;
+}
+
+.product__name,
+.product__age,
+.product__company {
+  font-family: sans-serif;
+}
